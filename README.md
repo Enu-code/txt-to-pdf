@@ -60,14 +60,6 @@ Your content never leaves your device.
 
 ---
 
-## Installation
-```bash
-# Clone the repo
-git clone https://github.com/berkinyilmaz/text-to-pdf.git
-
-# Install dependencies
-cd text-to-pdf
-npm install
-
-# Run locally
-npm run dev
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code
